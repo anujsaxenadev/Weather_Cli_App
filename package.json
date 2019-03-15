@@ -8,6 +8,8 @@
     },
     "author": "Anuj Saxena",
     "license": "ISC",
-    "dependencies": {}
-  }
+    "dependencies": {
+      "chalk": "^2.4.2"
+    }
+}
   
