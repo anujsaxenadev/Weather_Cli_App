@@ -1,0 +1,13 @@
+{
+    "name": "weather-cli-app",
+    "version": "1.0.0",
+    "description": "Getting the Weather Report (Command Line Application)",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Anuj Saxena",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
